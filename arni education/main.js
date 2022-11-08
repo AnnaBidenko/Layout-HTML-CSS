@@ -12,7 +12,7 @@ $(document).ready(function() {
         slideWidth: 365
     });
 
-    $('.teacher__table__slider').bxSlider({
+    $('.teacher_slider').bxSlider({
         auto: true,
         controls: false,
         responsive: true,
